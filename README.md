@@ -8,7 +8,7 @@ This is the implementation of the [paper](https://arxiv.org/abs/2307.00773) "Dif
 
 ## 1. Preparation of the auxiliary support images
 
-Please refer to our [ControlNet4FSS](https://github.com/TrinitialChan/DifFSS-BAM) pipeline for the pre-generattion of auxiliary support images.
+Please refer to our [ControlNet4FSS](https://github.com/TrinitialChan/ControlNet4FSS) pipeline for the pre-generattion of auxiliary support images.
 
 ## 2. DifFSS on FSS models
 
